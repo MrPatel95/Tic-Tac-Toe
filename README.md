@@ -4,3 +4,6 @@
 This game was non-mandatory final project for CS100 - Introduction to Computer Programming at NJIT.
 
 <h2>Enjoy the game!</h2>
+
+<br><br>
+This is an apple
