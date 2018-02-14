@@ -7,3 +7,4 @@ This game was non-mandatory final project for CS100 - Introduction to Computer P
 
 <br><br>
 This is an apple
+This is an Orange
