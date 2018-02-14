@@ -5,3 +5,4 @@ This game was non-mandatory final project for CS100 - Introduction to Computer P
 
 <h2>Enjoy the game!</h2>
 Bananas
+Juice
