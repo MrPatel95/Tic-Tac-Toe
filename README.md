@@ -1,4 +1,4 @@
-# Tic-Tac-Toe---Jeet-Patel
+<h1>Tic Tac Toe</h1>
 
-<h1>Hello</h1>
-<h2>This is</h2>
+<h3>Description:</h3>
+This game was non-mandatory final project for CS100 - Introduction to Computer Programming at NJIT.
