@@ -1,15 +1,10 @@
-<h1>Tic Tac Toe</h1>
+<h1>
+	Tic Tac Toe
+</h1>
 
-<h2>Description:</h2>
-This game was non-mandatory final project for CS100 - Introduction to Computer Programming at NJIT.
+<h2>
+	Description:
+</h2>
+This is a two player Tic Tac Toe game.
 
 <h2>Enjoy the game!</h2>
-
-<br><br>
-This is an apple
-This is an Orange
-<br>
-<br>
-The conflict
-
-* this is a test
