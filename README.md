@@ -8,3 +8,7 @@
 This is a two player Tic Tac Toe game.
 
 <h2>Enjoy the game!</h2>
+Bananas
+Juice
+Laptop
+Mouse
